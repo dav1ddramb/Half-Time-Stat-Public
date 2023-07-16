@@ -1,11 +1,11 @@
 # Half-Time Stat
-https://twitter.com/halftimestat
+Everyday posts in Telegram here: https://t.me/halftimestat
 
-https://t.me/halftimestat
+Occasional gems in Twitter here: https://twitter.com/halftimestat
 
 
 Welcome to **Half-Time Stat** — the home of my passion about football and data.<br>
-The aim of this project is to combine my two passions: _football_ and _data_ — and share with people the beautiful world of football stats. Love you!
+The aim of this project is to combine two things that bring me joy: _football_ and _data_ — and share with people the beautiful world of football stats. If you have suggestions or feedback, do not hesitate to reach out. Love you!
 
 ---
 Check [Code Snippets and Visualizations](https://github.com/dav1ddramb/Half-Time-Stat-Public/tree/main/Code%20Snippets%20and%20Visualizations) for the code used to retrieve data, proccess it, create visualizations and explore stats
